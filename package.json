@@ -1,0 +1,24 @@
+{
+  "name": "geo-types",
+  "version": "0.0.1",
+  "description": "Data types for map and GIS applications",
+  "main": "dist/types.js",
+  "scripts": {
+    "tsc": "tsc",
+    "prepublish": "tsc",
+    "test": "tsc -p test && node test/test.js"
+  },
+  "author": "Juha Järvi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charto/types.git"
+  },
+  "bugs": {
+    "url": "https://github.com/charto/types/issues"
+  },
+  "homepage": "https://github.com/charto/types#readme",
+  "devDependencies": {
+    "typescript": "~1.8.7"
+  }
+}
