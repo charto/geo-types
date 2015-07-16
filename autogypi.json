@@ -1,0 +1,10 @@
+{
+	"dependencies": [
+		"nbind"
+	],
+	"includes": [
+		"main.gypi"
+	],
+	"resolver": "autoresolver.js",
+	"output": "auto.gypi"
+}
