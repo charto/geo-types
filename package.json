@@ -13,12 +13,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/charto/types.git"
+    "url": "git+https://github.com/charto/geo-types.git"
   },
   "bugs": {
-    "url": "https://github.com/charto/types/issues"
+    "url": "https://github.com/charto/geo-types/issues"
   },
-  "homepage": "https://github.com/charto/types#readme",
+  "homepage": "https://github.com/charto/geo-types#readme",
   "devDependencies": {
     "typescript": "~1.8.7"
   }
