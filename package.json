@@ -1,8 +1,9 @@
 {
   "name": "geo-types",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Data types for map and GIS applications",
   "main": "dist/types.js",
+  "typings": "dist/types.d.ts",
   "scripts": {
     "tsc": "tsc",
     "prepublish": "tsc",
